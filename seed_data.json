@@ -1,0 +1,44 @@
+{
+    "name": "Bassam",
+    "age": 26,
+    "data": {
+        "books": [
+            {
+                "author_id": 10,
+                "book_name": "Mathematics",
+                "author_name": "author1",
+				"published_on": "2018-08-30 16:41:16"
+            },
+            {
+                "author_id": 2,
+                "book_name": "Physics",
+                "author_name": "author2",
+				"published_on": "2017-06-21 16:41:16"
+            },
+            {
+                "author_id": 2,
+                "book_name": "3 Idiots",
+                "author_name": "English",
+				"published_on": "2016-01-02 16:41:16"
+            },
+            {
+                "author_id": 2,
+                "book_name": "Computer Science",
+                "author_name": "author4",
+				"published_on": "2015-01-31 16:41:16"
+            }
+        ],
+        "novels": {
+            "78": {
+                "author_id": 2,
+                "novel_name": "3 Idiots",
+                "author_name": "user1"
+            },
+            "79": {
+                "author_id": 3,
+                "novel_name": "2 States",
+                "author_name": "user1"
+            }
+        }
+    }
+}
